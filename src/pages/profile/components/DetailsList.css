@@ -1,0 +1,14 @@
+.listItemName {
+    display: flex;
+    justify-content: start;
+}
+
+.listItemValue {
+    display: flex;
+    justify-content: end;
+}
+
+.episodesTitle {
+    display: 'flex';
+    justify-content: 'center' 
+}
